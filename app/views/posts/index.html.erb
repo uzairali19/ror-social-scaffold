@@ -14,14 +14,12 @@
             </div>
           </article>
         <% end %>
-        <% @posts.each do | post | %>
-          <h3 class="title">
-            Recent posts
-          </h3>
-          <div class="box">
-            <%= render @timeline_posts %>
-          </div>
-        <% end %>
+        <h3 class="title">
+          Recent posts
+        </h3>
+        <div class="box">
+          <%= render @timeline_posts %>
+        </div>
       </div>
     </div>
   </div>
