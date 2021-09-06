@@ -63,7 +63,10 @@ group :development, :test do
 end
 
 group :test do
+  gem 'capybara'
+  gem 'database_cleaner', '~> 1.5'
   gem 'rspec'
+  gem 'shoulda-matchers', '~> 3.0', require: false
 end
 
 group :development do
@@ -82,3 +85,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
+
+group :development, :test do
+  gem 'rspec-rails'
+end
