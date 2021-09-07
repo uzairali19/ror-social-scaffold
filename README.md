@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-TBA
+[Heroku Link](https://ror-social-scaffold-uzair.herokuapp.com/users/sign_in)
 
 ## Getting Started
 
@@ -69,7 +69,11 @@ TBA
 
 ## Authors
 
-TBA
+👤 **Uzair Ali**
+
+- GitHub: [@githubhandle](https://github.com/uzairali19)
+- Twitter: [@twitterhandle](https://twitter.com/Uzairali751)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uzairali19/)
 
 ## 🤝 Contributing
 
@@ -81,10 +85,10 @@ Feel free to check the [issues page](https://github.com/microverseinc/ror-social
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Show your support
 
-TBA
+Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-TBA
+This project is [MIT](./MIT.md) licensed. Please contact issues link for contributions.
