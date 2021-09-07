@@ -46,3 +46,7 @@ class UsersController < ApplicationController
     end
   end
 end
+
+def friends?(user)
+  Friendship.exists?(user_id: current_user.id, friend_id: user)
+end
